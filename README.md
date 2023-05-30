@@ -16,3 +16,5 @@ I've used Terraform to deploy infrastructure on AWS 💻 , and the results are a
 ✅ Used a local-exec provisioner to print the public IP of the Bastion EC2 instance
 ✅ Set up an email notification system using SES and Lambda to send an email if any update happened to the production workspace
 
+
+![1682864599313](https://github.com/MahaElomey/Terraform-Networking/assets/47718954/57a9163f-99f3-43cd-94af-074a359a3b6b)
